@@ -1,0 +1,8 @@
+https://www.youtube.com/watch?v=KH-lN82sf7I	
+
+↓今回参考にしたサイト↓
+模写サイト：「Web Design:Template-Party＆Girl-Staff」https://template-party.com/index.html より
+https://template-party.com/template/tp_biz35/tp_biz35_black/
+
+「HTML5 Doctor Reset CSS」
+http://html5doctor.com/html-5-reset-stylesheet/
